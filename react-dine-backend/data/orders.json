@@ -1,0 +1,61 @@
+[
+  {
+    "customer": {
+      "name": "Johnny Depp",
+      "email": "johnny@depp.com",
+      "street": "21 Jump Street",
+      "postalCode": "90210",
+      "city": "Beverly Hills"
+    },
+    "items": [
+      { "id": "d1", "quantity": 1 },
+      { "id": "d2", "quantity": 1 }
+    ],
+    "id": "d3a28ed9-bd6c-4cfb-9b15-81218a41f5b7"
+  },
+  {
+    "customer": {
+      "name": "Johnny Depp",
+      "email": "johnny@depp.com",
+      "street": "21 Jump Street",
+      "postalCode": "90210",
+      "city": "Beverly Hills"
+    },
+    "items": [
+      { "id": "d5", "quantity": 1 },
+      { "id": "d4", "quantity": 1 }
+    ],
+    "id": "5f967ded-1376-48b5-98df-269f758e93e6"
+  },
+  {
+    "customer": {
+      "name": "Johnny Depp",
+      "email": "johnny@depp.com",
+      "street": "21 Jump Street",
+      "postalCode": "90210",
+      "city": "Beverly Hills"
+    },
+    "items": [
+      { "id": "d6", "quantity": 1 },
+      { "id": "d8", "quantity": 1 },
+      { "id": "d9", "quantity": 1 },
+      { "id": "d20", "quantity": 1 },
+      { "id": "d19", "quantity": 2 }
+    ],
+    "id": "14d2d456-4edd-429b-8104-8d072a03a3ba"
+  },
+  {
+    "customer": {
+      "name": "Johnny Depp",
+      "email": "johnny@depp.com",
+      "street": "21 Jump Street",
+      "postalCode": "90210",
+      "city": "Beverly Hills"
+    },
+    "items": [
+      { "id": "d1", "quantity": 2 },
+      { "id": "d2", "quantity": 2 }
+    ],
+    "id": "ff10a1c5-4e97-4559-94cd-44da1790f0b7"
+  }
+]

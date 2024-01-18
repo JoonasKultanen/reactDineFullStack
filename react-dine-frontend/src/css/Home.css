@@ -1,0 +1,29 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100%;
+  padding-top: 25vh;
+}
+
+.home-container h1 {
+  font-size: 80px;
+  font-family: "Brush Script MT", cursive;
+}
+
+.menu-btn {
+  font-weight: bold;
+  border: 2px solid black;
+  background-color: transparent;
+  color: black;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 5px;
+  background-color: rgba(245, 245, 245, 0.5);
+}
+
+.menu-btn:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}

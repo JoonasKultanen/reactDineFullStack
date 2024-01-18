@@ -1,0 +1,9 @@
+.menu-container {
+  padding: 20px;
+}
+
+.menu-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
